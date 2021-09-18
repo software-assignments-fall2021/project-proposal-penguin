@@ -7,9 +7,8 @@ Pokédek is a web app that helps people learn about their teammates to promote a
 Through an interactive web editor, person can easily create their own Pokemon-inspired trading cards highlighting their superpowers, weaknesses, communication preferences, and more. Cards are compiled into a "dek" where people can view each other's cards and obtain a better understanding of who they will be working with.
 
 Example Cards:
-<img src="https://i.imgur.com/p3pRHFu.jpg" alt="kevin_card" width=30%/>   <img src="https://i.imgur.com/OPV7AJT.jpg" alt="janet_card" width=30%/> <img src="https://i.imgur.com/qxoVbZF.png" alt="matthew_card" width=30%/>
 
-
+<img src="https://user-images.githubusercontent.com/52385987/133908814-01850f12-1d70-4fb4-b82a-51a25bdb3132.png" alt="janet_card" width=30%/>   <img src="https://user-images.githubusercontent.com/52385987/133908815-e86bef99-40d8-4f77-baf2-ec225d51fcfe.png" alt="kevin_card" width=30%/> <img src="https://user-images.githubusercontent.com/52385987/133908818-2a38be2b-4732-400c-8140-f6b8ed49539f.png" alt="matthew_card" width=30%/>
 
 ## Why?
 Much of humanity's progress has come through collaboration (see Matt Ridley's take on the [exchange of ideas](https://economictimes.indiatimes.com/exchange-of-ideas-chief-source-of-innovation-matt-ridley/articleshow/9831254.cms)), and teams are becoming increasingly distributed with remote work. Regardless of what kind of work is taking place, a team's success comes down to their ability to work together. Thus, it's crucial for people to understand how their teammates best work, and that's where Pokédek comes in.
